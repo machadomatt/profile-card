@@ -2,6 +2,8 @@
 
 Profile Card using HTML, CSS & JavaScript with light and dark theme.
 
+:point_right: [**Live preview**](https://machadomatt.github.io/profile-card/)
+
 ## UI Inspiration
 
 [True Coder](https://www.youtube.com/channel/UCLjtB1XNaiVz-brRDymb5gg)
@@ -14,7 +16,7 @@ Profile Card using HTML, CSS & JavaScript with light and dark theme.
 
 ## Dependencies
 
-There is no dependencies 😃
+There is no dependencies :smiley:
 
 ## Author
 
