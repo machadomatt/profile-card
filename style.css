@@ -20,7 +20,7 @@ html[data-theme='dark'] {
     --color-gray-dark: #ccc;
     --color-gray-darker: #ddd;
     --background-color-body: #3f3f3f;
-    --background-color-card: #666666;
+    --background-color-card: #1a1a1a;
 }
 
 * {
